@@ -1,0 +1,8 @@
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-light-variables.css';
+@import '@ciscodesignsystems/cds-react-container/index.css';
+@import '@ciscodesignsystems/cds-react-flex/index.css';
+@import '@ciscodesignsystems/cds-react-skeleton/index.css';
+@import '@ciscodesignsystems/cds-react-text/index.css';
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-dark-variables.css';
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-variables.css';
+

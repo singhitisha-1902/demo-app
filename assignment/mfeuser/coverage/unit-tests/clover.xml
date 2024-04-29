@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709494786464" clover="3.2.0">
+  <project timestamp="1709494786464" name="All files">
+    <metrics statements="47" coveredstatements="15" conditionals="12" coveredconditionals="5" methods="28" coveredmethods="2" elements="87" coveredelements="22" complexity="0" loc="47" ncloc="47" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="bootstrap.js" path="/Users/itsingh/Desktop/assignment/mfeuser/src/bootstrap.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/itsingh/Desktop/assignment/mfeuser/src/index.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="45" coveredstatements="15" conditionals="12" coveredconditionals="5" methods="28" coveredmethods="2"/>
+      <file name="UserManagement.js" path="/Users/itsingh/Desktop/assignment/mfeuser/src/components/UserManagement.js">
+        <metrics statements="45" coveredstatements="15" conditionals="12" coveredconditionals="5" methods="28" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="81" count="3" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="89" count="3" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="97" count="3" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="102" count="3" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="106" count="3" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="110" count="3" type="stmt"/>
+        <line num="130" count="6" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="177" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

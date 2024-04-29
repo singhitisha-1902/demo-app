@@ -1,0 +1,109 @@
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-light-variables.css';
+@import '@ciscodesignsystems/cds-react-table/index.css';
+@import '@ciscodesignsystems/cds-react-flex/index.css';
+@import '@ciscodesignsystems/cds-react-text-input/index.css';
+@import '@ciscodesignsystems/cds-react-button/index.css';
+@import '@ciscodesignsystems/cds-react-table/index.css';
+
+
+
+/* 
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  } */
+  
+  /* .save{
+    width: 40%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+    
+  }
+   .cancel {
+    width: 40%;
+    margin-left: 10px;
+    background-color: #e74824;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+  } */
+  
+   .save, .cancel:hover {
+    background-color: #9AD0C2;
+  } 
+  
+  /* .adduser {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  } */
+  .buttonadduser{
+    margin-left:70%;
+    margin-top: 10px;
+    background-color:#2D9596 ;/* Example background color for the button */
+ 
+    border: none;
+    border-radius:5px;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  
+
+  }
+  .tablesave, .tablecancel{
+   margin-right:5px;
+  
+    background-color:#2D9596 ;/* Example background color for the button */
+ 
+    border: none;
+    border-radius:5px;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+  }
+  .tablecancel{
+    background-color:#e94d26 ;
+
+  }
+  
+  
+  .editbutton{
+    display: flex; /* Display buttons in a single line */
+    margin: 0 5px;
+  }
+ 
+
+.tablediv {
+  border: 2px solid rgb(127, 127, 127);
+  text-decoration-color: rgb(20, 129, 224);
+  padding-top: 0px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 80vh; 
+  margin-left: 30%;
+  margin-top: 5%;
+}

@@ -1,0 +1,30 @@
+
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-light-variables.css';
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-dark-variables.css';
+@import '@ciscodesignsystems/cds-react-text-input/index.css';
+@import '@ciscodesignsystems/cds-react-nav/index.css';
+@import '@ciscodesignsystems/cds-react-button/index.css';
+@import '@ciscodesignsystems/cds-react-header/index.css';
+@import '@ciscodesignsystems/cds-react-logos/index.css';
+@import '@ciscodesignsystems/cds-react-text/index.css';
+@import '@ciscodesignsystems/cds-react-container/index.css';
+@import '@ciscodesignsystems/cds-react-heading/index.css';
+@import '@ciscodesignsystems/cds-react-skeleton/index.css';
+@import '@ciscodesignsystems/cds-react-dropdown/index.css';
+@import '@ciscodesignsystems/cds-magnetic-theme-web/css/dist/token-theme-variables.css';
+@import '@ciscodesignsystems/cds-react-toggle/index.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
